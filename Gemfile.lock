@@ -1,3 +1,8 @@
+PATH
+  remote: _vendor/jekyll-theme-asonna
+  specs:
+    jekyll-theme-asonna (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -39,10 +44,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.2.1)
+  jekyll-theme-asonna!
   minima
 
 RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
