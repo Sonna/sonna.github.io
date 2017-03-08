@@ -26,4 +26,14 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-asonna # minima
+
+# Structure configuration
+# Where things are
+# source:       ./source
+# destination:  ./build
+# layouts_dir:  ./_layouts
+# data_dir:     ./_data
+# includes_dir: ./_includes
+# collections:  null
+# plugins_dir:  ./_plugins
