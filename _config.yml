@@ -30,10 +30,11 @@ theme: jekyll-theme-asonna # minima
 
 # Structure configuration
 # Where things are
-# source:       ./source
-# destination:  ./build
+source:       ./source
+destination:  ./build
 # layouts_dir:  ./_layouts
 # data_dir:     ./_data
 # includes_dir: ./_includes
 # collections:  null
+collections_dir: ./_collections
 # plugins_dir:  ./_plugins
