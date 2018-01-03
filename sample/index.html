@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Alex Sonneveld</title>
-  <meta name="description" content="A personal blog and writings of an individual by the name of Alex Sonneveld, sometimes known as Sonna throughout the interwebs, a Ruby/Web developer and Video Games enthusiast.
-">
+  <title>Sample Page</title>
+  <meta name="description" content="">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="canonical" href="http://localhost:4000/sample/">
   <link rel="alternate" type="application/rss+xml" title="Alex Sonneveld" href="http://localhost:4000/feed.xml">
 </head>
 
@@ -55,34 +54,35 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Jan 2, 2018</span>
-
-        <h2>
-          <a class="post-link" href="/sample/">Sample Page</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jan 27, 2017</span>
-
-        <h2>
-          <a class="post-link" href="/jekyll/update/2017/01/27/welcome-to-jekyll.html">Welcome to Jekyll!</a>
-        </h2>
-      </li>
-    
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
-
+        <div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#code-example">code example</a></li>
+</ul>
 </div>
-
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>This is a sample page composed in AsciiDoc.
+Jekyll converts it to HTML using <a href="http://asciidoctor.org">Asciidoctor</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="code-example">code example</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="title">app.rb</div>
+<div class="content">
+<pre class="highlight"><code class="language-ruby" data-lang="ruby"><span id="L1" class="line"><span class="nb">require</span> <span class="s2">"sinatra"</span></span>
+<span id="L2" class="line"></span>
+<span id="L3" class="line"><span class="n">get</span> <span class="s2">"/hi"</span> <span class="k">do</span></span>
+<span id="L4" class="line">  <span class="s2">"Hello World!"</span></span>
+<span id="L5" class="line"><span class="k">end</span></span></code></pre>
+</div>
+</div>
+</div>
+</div>
       </div>
     </div>
 
