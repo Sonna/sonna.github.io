@@ -6,8 +6,8 @@
 </description>
     <link>http://alex.sonneveld.com.au/</link>
     <atom:link href="http://alex.sonneveld.com.au/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2018 15:37:08 +1100</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2018 15:37:08 +1100</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2018 14:06:39 +1100</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2018 14:06:39 +1100</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -47,7 +47,7 @@ the text in front me. Anywho …&lt;/p&gt;
 
 &lt;p&gt;I hope to use this website to write down and scratch out some programming ideas
 going forward, which has in the past either not been done, done in my head (if
-even that counts), across multiple &lt;code class=&quot;highlighter-rouge&quot;&gt;~/Notes&lt;/code&gt; [Git] repositories or folders on
+even that counts), across multiple &lt;code class=&quot;highlighter-rouge&quot;&gt;~/Notes&lt;/code&gt; &lt;a href=&quot;https://git-scm.com/&quot;&gt;Git&lt;/a&gt; repositories or folders on
 different computers or even just loose pieces of paper (oh gosh … soo many
 paper notes :( ).&lt;/p&gt;
 
